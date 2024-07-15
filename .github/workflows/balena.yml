@@ -15,9 +15,7 @@ jobs:
       matrix:
         fleet:
           [
-            goshawk22/tailscale-aarch64,
-            goshawk22/tailscale-amd64,
-            goshawk22/tailscale-armv7hf,
+            gh_goshawk22/tailscale,
           ]
 
     steps:
