@@ -14,9 +14,9 @@ jobs:
       matrix:
         fleet:
           [
-            klutchell_blocks/tailscale-aarch64,
-            klutchell_blocks/tailscale-amd64,
-            klutchell_blocks/tailscale-armv7hf,
+            goshawk22/tailscale-aarch64,
+            goshawk22/tailscale-amd64,
+            goshawk22/tailscale-armv7hf,
           ]
 
     steps:

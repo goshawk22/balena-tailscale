@@ -1,5 +1,7 @@
 # balena-tailscale
 
+## All credit goes to [klutchell](https://github.com/klutchell/balena-tailscale)
+
 Add your device to your [Tailscale](https://tailscale.com/) network with this block!
 
 ## Usage
